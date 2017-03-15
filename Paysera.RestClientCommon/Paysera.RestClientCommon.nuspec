@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Paysera.RestClientCommon</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <authors>Paysera</authors>
+  </metadata>
+</package>

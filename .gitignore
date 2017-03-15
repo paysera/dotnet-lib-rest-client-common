@@ -1,0 +1,5 @@
+/.vs/
+/packages/
+/Paysera.RestClientCommon/*.nupkg
+/*/bin/
+/*/obj/
